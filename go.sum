@@ -1,0 +1,9 @@
+github.com/exascience/pargo v1.0.0 h1:q2dUG8+KeoRPCHMEGJYG6O0OUOFWL5EqLA4a0+9r8mc=
+github.com/exascience/pargo v1.0.0/go.mod h1:S4dDBaMIgxplCJMMiIqd+TG7gHUo8h7dhLxsCWBiyWU=
+golang.org/x/exp v0.0.0-20180321215751-8460e604b9de h1:xSjD6HQTqT0H/k60N5yYBtnN1OEkVy7WIo/DYyxKRO0=
+golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
+golang.org/x/tools v0.0.0-20180525024113-a5b4c53f6e8b/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
+gonum.org/v1/gonum v0.0.0-20190105094335-1fc0fba783fc h1:f5fdIKlye51kMMi60uY1b8jIUuJQDJaWAD7XaDv5IS8=
+gonum.org/v1/gonum v0.0.0-20190105094335-1fc0fba783fc/go.mod h1:Y+Yx5eoAFn32cQvJDxZx5Dpnq+c3wtXuadVZAcxbbBo=
+gonum.org/v1/netlib v0.0.0-20181224185128-3431cf544c75 h1:H/AO3EQPCAAkZ9Uo3W25JSgzhQaYvqPUT0HcCnImH/o=
+gonum.org/v1/netlib v0.0.0-20181224185128-3431cf544c75/go.mod h1:wa6Ws7BG/ESfp6dHfk7C6KdzKA7wR7u/rKwOGE66zvw=
